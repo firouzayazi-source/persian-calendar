@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>تقویم فارسی استوک لند</title>
+<meta name="description" content="افزودن تقویم شمسی و مناسبت‌ها به تقویم گوشی آیفون و اندروید با یک لمس">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f6f4ef;
+    --card: #ffffff;
+    --text: #1d1b18;
+    --muted: #6b665d;
+    --line: #e6e1d7;
+    --accent: #0f7b5f;
+    --accent-ink: #ffffff;
+    --soft: #e7f3ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141412;
+      --card: #1e1d1a;
+      --text: #f1eee8;
+      --muted: #a39d92;
+      --line: #33312c;
+      --accent: #3cc49a;
+      --accent-ink: #0b1f18;
+      --soft: #1b2e27;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: Vazirmatn, Tahoma, sans-serif;
+    line-height: 1.9;
+  }
+  main { max-width: 640px; margin: 0 auto; padding: 32px 16px 48px; }
+  header { text-align: center; margin-bottom: 28px; }
+  .badge {
+    width: 72px; height: 72px; margin: 0 auto 14px;
+    border-radius: 18px; background: var(--card); border: 1px solid var(--line);
+    display: grid; place-items: center; overflow: hidden;
+  }
+  .badge b { display: block; width: 100%; background: var(--accent); color: var(--accent-ink); font-size: 12px; line-height: 22px; }
+  .badge span { font-size: 28px; font-weight: 800; line-height: 1.6; }
+  h1 { font-size: 26px; margin: 0 0 6px; }
+  header p { margin: 0; color: var(--muted); }
+  .card {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 16px; padding: 20px; margin-bottom: 16px;
+  }
+  .card.mine { border-color: var(--accent); box-shadow: 0 0 0 3px var(--soft); }
+  h2 { font-size: 19px; margin: 0 0 4px; display: flex; align-items: center; gap: 8px; }
+  .tag { font-size: 12px; font-weight: 600; background: var(--soft); color: var(--accent); padding: 0 10px; border-radius: 99px; display: none; }
+  .mine .tag { display: inline-block; }
+  .btn {
+    display: block; width: 100%; text-align: center; text-decoration: none;
+    background: var(--accent); color: var(--accent-ink);
+    font: inherit; font-weight: 800; font-size: 17px;
+    padding: 13px 16px; border-radius: 12px; border: 0; cursor: pointer; margin: 14px 0 10px;
+  }
+  .btn.ghost { background: transparent; color: var(--accent); border: 1.5px solid var(--accent); font-size: 15px; padding: 10px 16px; }
+  ol { margin: 6px 0 0; padding-right: 22px; }
+  li { margin-bottom: 4px; }
+  .note { font-size: 14px; color: var(--muted); margin: 10px 0 0; }
+  .url {
+    direction: ltr; text-align: left; font-family: ui-monospace, monospace; font-size: 12px;
+    background: var(--bg); border: 1px solid var(--line); border-radius: 10px;
+    padding: 10px; word-break: break-all; margin-top: 10px;
+  }
+  footer { text-align: center; color: var(--muted); font-size: 14px; margin-top: 28px; }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="badge"><b>فروردین</b><span>۱</span></div>
+    <h1>تقویم فارسی استوک لند</h1>
+    <p>تاریخ شمسی و مناسبت‌های هر روز، داخل تقویم خود گوشی‌تان.<br>سال‌های ۱۴۰۵ تا ۱۴۰۷، و به‌روزرسانی خودکار.</p>
+  </header>
+
+  <section class="card" id="ios">
+    <h2>آیفون و آیپد <span class="tag">گوشی شما</span></h2>
+    <a class="btn" id="ios-link" href="#">افزودن به تقویم آیفون</a>
+    <ol>
+      <li>دکمه‌ی بالا را بزنید.</li>
+      <li>در پنجره‌ای که باز می‌شود <b>Subscribe</b> (مشترک شدن) را بزنید.</li>
+      <li>در صفحه‌ی بعد <b>Add</b> (افزودن) را بزنید. تمام!</li>
+    </ol>
+    <p class="note">اگر دکمه کار نکرد: Settings ← Calendar ← Accounts ← Add Account ← Other ← Add Subscribed Calendar، و لینک پایین صفحه را بچسبانید.</p>
+  </section>
+
+  <section class="card" id="android">
+    <h2>اندروید (سامسونگ، شیائومی و…) <span class="tag">گوشی شما</span></h2>
+    <a class="btn" id="google-link" href="#" target="_blank" rel="noopener">افزودن به Google Calendar</a>
+    <ol>
+      <li>دکمه‌ی بالا را بزنید. صفحه‌ی گوگل کلندر در مرورگر باز می‌شود. اگر پرسید با کدام برنامه باز شود، <b>Chrome</b> را انتخاب کنید.</li>
+      <li>با همان حساب جیمیلی که روی گوشی دارید وارد شوید و <b>Add</b> (افزودن) را بزنید.</li>
+      <li>برنامه‌ی تقویم گوشی را باز کنید، از منو (☰) تیک تقویم «تقویم فارسی استوک لند» را بزنید.</li>
+    </ol>
+    <p class="note">اگر گوگل گفت برنامه را نصب کنید: در منوی کروم (⋮) گزینه‌ی <b>Desktop site</b> را روشن کنید و دوباره دکمه را بزنید.<br>
+    اگر تقویم در گوشی نیامد: در تنظیمات برنامه‌ی Google Calendar روی اسم تقویم بزنید و <b>Sync</b> را روشن کنید. در سامسونگ هم باید حساب گوگل در Samsung Calendar فعال باشد.<br>
+    ممکن است چند دقیقه تا چند ساعت طول بکشد تا رویدادها نمایش داده شوند.</p>
+  </section>
+
+  <section class="card" id="other">
+    <h2>کامپیوتر و برنامه‌های دیگر (Outlook و…)</h2>
+    <p class="note" style="margin-top:0">در بخش «افزودن تقویم از اینترنت / From URL» این لینک را بچسبانید:</p>
+    <div class="url" id="ics-url"></div>
+    <button class="btn ghost" id="copy">کپی لینک</button>
+  </section>
+
+  <footer>
+    آموزش‌ها و نکته‌های آیفون در
+    <a href="https://www.instagram.com/stock_land.ir/" target="_blank" rel="noopener">اینستاگرام استوک لند</a>
+  </footer>
+</main>
+<script>
+  var ICS = 'https://raw.githubusercontent.com/firouzayazi-source/persian-calendar/main/stock-land-persian-calendar.ics';
+  var webcal = ICS.replace(/^https:/, 'webcal:');
+  document.getElementById('ios-link').href = webcal;
+  document.getElementById('google-link').href =
+    'https://calendar.google.com/calendar/render?cid=' + encodeURIComponent(webcal);
+  document.getElementById('ics-url').textContent = ICS;
+
+  var copyBtn = document.getElementById('copy');
+  copyBtn.addEventListener('click', function () {
+    var done = function () { copyBtn.textContent = 'کپی شد ✓'; setTimeout(function () { copyBtn.textContent = 'کپی لینک'; }, 2000); };
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(ICS).then(done, function () { prompt('لینک را کپی کنید:', ICS); });
+    } else {
+      prompt('لینک را کپی کنید:', ICS);
+    }
+  });
+
+  // Put the visitor's own platform first
+  var ua = navigator.userAgent;
+  var isIOS = /iPhone|iPad|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  var mine = isIOS ? 'ios' : /Android/.test(ua) ? 'android' : null;
+  if (mine) {
+    var el = document.getElementById(mine);
+    el.classList.add('mine');
+    el.parentNode.insertBefore(el, document.querySelector('.card'));
+  }
+</script>
+</body>
+</html>

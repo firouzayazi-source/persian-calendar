@@ -15396,13 +15396,13 @@ UID:stockland-jalali-info-20280601@stock-land
 DTSTAMP:20261010T000000Z
 DTSTART;VALUE=DATE:20280601
 DTEND;VALUE=DATE:20280602
-SUMMARY:پنج‌شنبه - روز جهانی والدین و درگذشت هلن کلر
- معلم نابینا و ناشنوای آمریکایی
-DESCRIPTION:مناسبت های این روز:\nدرگذشت هلن کلر\nروز جهانی والدین
- ، نویسنده و معلم نابینا و ناشنوای آمریکا
- یی\nدرگذشت جان دیویی فیلسوف آمریکایی قرن 
- بیستم، از پیشتازان عمل‌گرایی\nروز جهانی 
- والدین
+SUMMARY:پنج‌شنبه - روز جهانی والدین و درگذشت 
+ هلن کلرمعلم نابینا و ناشنوای آمریکایی
+DESCRIPTION:مناسبت های این روز:\nدرگذشت هلن کلر\
+ nروز جهانی والدین، نویسنده و معلم نابینا 
+ و ناشنوای آمریکایی\nدرگذشت جان دیویی فیل
+ سوف آمریکایی قرن بیستم، از پیشتازان عمل
+ ‌گرایی\nروز جهانی والدین
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -15776,13 +15776,15 @@ UID:stockland-jalali-info-20280618@stock-land
 DTSTAMP:20261010T000000Z
 DTSTART;VALUE=DATE:20280618
 DTEND;VALUE=DATE:20280619
-SUMMARY:یک‌شنبه - روز پدر (آمریکا و بریتانیا) و درگذشت دکتر علی شریعتی
-DESCRIPTION:مناسبت های این روز:\nدرگذشت دکتر عل\nروز پدر (آمریکا و بریتانیا)
- ی شریعتی\nدرگذشت پل کارر شیمیدان سوئیسی، 
- برندهٔ جایزه نوبل شیمی سال ۱۹۳۷\nزادروز چ
- ارلز لاورن زیست‌شناس فرانسوی، برندهٔ جا
- یزه نوبل فیزیولوژی و پزشکی در سال ۱۹۰۷\nر
- وز جهانی پدر\nروز پدر (آمریکا و بریتانیا)
+SUMMARY:یک‌شنبه - روز پدر (آمریکا و بریتانیا) 
+ و درگذشت دکتر علی شریعتی
+DESCRIPTION:مناسبت های این روز:\nدرگذشت دکتر عل\
+ nروز پدر (آمریکا و بریتانیا)ی شریعتی\nدرگذ
+ شت پل کارر شیمیدان سوئیسی، برندهٔ جایزه 
+ نوبل شیمی سال ۱۹۳۷\nزادروز چارلز لاورن زی
+ ست‌شناس فرانسوی، برندهٔ جایزه نوبل فیزی
+ ولوژی و پزشکی در سال ۱۹۰۷\nروز جهانی پدر\n
+ روز پدر (آمریکا و بریتانیا)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -19411,12 +19413,13 @@ UID:stockland-jalali-info-20281119@stock-land
 DTSTAMP:20261010T000000Z
 DTSTART;VALUE=DATE:20281119
 DTEND;VALUE=DATE:20281120
-SUMMARY:یک‌شنبه - ولادت امام محمد باقر علیه السلام و روز جهانی مردان
- السلام
-DESCRIPTION:مناسبت های این روز:\nولادت  امام محم\nروز جهانی مردان
- د باقر علیه السلام\nدرگذشت فرانتس شوبرت م
- وسیقیدان اتریشی\nزادروز ایندیرا گاندی ،س
- یاستمدار هندی\nروز جهانی مردان
+SUMMARY:یک‌شنبه - ولادت امام محمد باقر علیه ا
+ لسلام و روز جهانی مردانالسلام
+DESCRIPTION:مناسبت های این روز:\nولادت  امام محم
+ \nروز جهانی مرداند باقر علیه السلام\nدرگذ
+ شت فرانتس شوبرت موسیقیدان اتریشی\nزادروز
+  ایندیرا گاندی ،سیاستمدار هندی\nروز جهان
+ ی مردان
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -22120,10 +22123,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22133,10 +22135,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22146,10 +22147,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22159,10 +22159,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22172,10 +22171,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22185,10 +22183,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22198,10 +22195,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22211,10 +22207,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22224,10 +22219,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22237,10 +22231,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22250,10 +22243,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22263,10 +22255,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22276,10 +22267,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22289,10 +22279,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22302,10 +22291,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22315,10 +22303,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22328,10 +22315,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22341,10 +22327,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22354,10 +22339,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22367,10 +22351,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22380,10 +22363,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22393,10 +22375,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22406,10 +22387,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22419,10 +22399,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22432,10 +22411,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22445,10 +22423,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22458,10 +22435,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22471,10 +22447,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22484,10 +22459,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22497,10 +22471,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22510,10 +22483,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22523,10 +22495,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22536,10 +22507,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22549,10 +22519,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22562,10 +22531,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22575,10 +22543,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22588,10 +22555,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22601,10 +22567,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22614,10 +22579,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22627,10 +22591,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22640,10 +22603,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22653,10 +22615,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22666,10 +22627,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22679,10 +22639,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22692,10 +22651,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22705,10 +22663,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22718,10 +22675,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22731,10 +22687,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22744,10 +22699,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22757,10 +22711,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22770,10 +22723,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271003
 DTEND;VALUE=DATE:20271004
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22783,10 +22735,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271010
 DTEND;VALUE=DATE:20271011
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22796,10 +22747,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271018
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22809,10 +22759,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271024
 DTEND;VALUE=DATE:20271025
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22822,10 +22771,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22835,10 +22783,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271107
 DTEND;VALUE=DATE:20271108
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22848,10 +22795,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271114
 DTEND;VALUE=DATE:20271115
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22861,10 +22807,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271121
 DTEND;VALUE=DATE:20271122
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22874,10 +22819,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271128
 DTEND;VALUE=DATE:20271129
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22887,10 +22831,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271205
 DTEND;VALUE=DATE:20271206
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22900,10 +22843,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271212
 DTEND;VALUE=DATE:20271213
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22913,10 +22855,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271219
 DTEND;VALUE=DATE:20271220
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22926,10 +22867,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20271226
 DTEND;VALUE=DATE:20271227
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22939,10 +22879,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280102
 DTEND;VALUE=DATE:20280103
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22952,10 +22891,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280109
 DTEND;VALUE=DATE:20280110
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22965,10 +22903,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280116
 DTEND;VALUE=DATE:20280117
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22978,10 +22915,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280123
 DTEND;VALUE=DATE:20280124
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -22991,10 +22927,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280130
 DTEND;VALUE=DATE:20280131
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23004,10 +22939,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280206
 DTEND;VALUE=DATE:20280207
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23017,10 +22951,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280213
 DTEND;VALUE=DATE:20280214
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23030,10 +22963,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280220
 DTEND;VALUE=DATE:20280221
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23043,10 +22975,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280227
 DTEND;VALUE=DATE:20280228
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23056,10 +22987,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280305
 DTEND;VALUE=DATE:20280306
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23069,10 +22999,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280312
 DTEND;VALUE=DATE:20280313
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23082,10 +23011,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280319
 DTEND;VALUE=DATE:20280320
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23095,10 +23023,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280326
 DTEND;VALUE=DATE:20280327
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23108,10 +23035,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280402
 DTEND;VALUE=DATE:20280403
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23121,10 +23047,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280409
 DTEND;VALUE=DATE:20280410
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23134,10 +23059,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280416
 DTEND;VALUE=DATE:20280417
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23147,10 +23071,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280423
 DTEND;VALUE=DATE:20280424
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23160,10 +23083,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23173,10 +23095,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280507
 DTEND;VALUE=DATE:20280508
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23186,10 +23107,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280514
 DTEND;VALUE=DATE:20280515
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23199,10 +23119,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280521
 DTEND;VALUE=DATE:20280522
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23212,10 +23131,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280528
 DTEND;VALUE=DATE:20280529
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23225,10 +23143,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280604
 DTEND;VALUE=DATE:20280605
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23238,10 +23155,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280611
 DTEND;VALUE=DATE:20280612
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23251,10 +23167,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280618
 DTEND;VALUE=DATE:20280619
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23264,10 +23179,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280625
 DTEND;VALUE=DATE:20280626
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23277,10 +23191,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280702
 DTEND;VALUE=DATE:20280703
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23290,10 +23203,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280709
 DTEND;VALUE=DATE:20280710
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23303,10 +23215,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280716
 DTEND;VALUE=DATE:20280717
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23316,10 +23227,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280723
 DTEND;VALUE=DATE:20280724
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23329,10 +23239,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280730
 DTEND;VALUE=DATE:20280731
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23342,10 +23251,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280806
 DTEND;VALUE=DATE:20280807
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23355,10 +23263,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280813
 DTEND;VALUE=DATE:20280814
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23368,10 +23275,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280820
 DTEND;VALUE=DATE:20280821
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23381,10 +23287,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280827
 DTEND;VALUE=DATE:20280828
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23394,10 +23299,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280903
 DTEND;VALUE=DATE:20280904
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23407,10 +23311,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280910
 DTEND;VALUE=DATE:20280911
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23420,10 +23323,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280917
 DTEND;VALUE=DATE:20280918
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23433,10 +23335,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20280924
 DTEND;VALUE=DATE:20280925
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23446,10 +23347,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281001
 DTEND;VALUE=DATE:20281002
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23459,10 +23359,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281008
 DTEND;VALUE=DATE:20281009
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23472,10 +23371,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281015
 DTEND;VALUE=DATE:20281016
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23485,10 +23383,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281022
 DTEND;VALUE=DATE:20281023
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23498,10 +23395,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281029
 DTEND;VALUE=DATE:20281030
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23511,10 +23407,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281105
 DTEND;VALUE=DATE:20281106
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23524,10 +23419,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281112
 DTEND;VALUE=DATE:20281113
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23537,10 +23431,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281119
 DTEND;VALUE=DATE:20281120
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23550,10 +23443,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281126
 DTEND;VALUE=DATE:20281127
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23563,10 +23455,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281203
 DTEND;VALUE=DATE:20281204
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23576,10 +23467,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281210
 DTEND;VALUE=DATE:20281211
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23589,10 +23479,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281217
 DTEND;VALUE=DATE:20281218
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23602,10 +23491,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281224
 DTEND;VALUE=DATE:20281225
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -23615,10 +23503,9 @@ DTSTAMP:20261018T000000Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:نکته هفته | استوک لند
-DESCRIPTION:برای آموزش ها و نکته های آیفون، اینستاگرام استوک لند را ببینید:
-https://www.instagram.com/stock_land.ir/
-
-پیام معرفی هفتگی استوک لند
+DESCRIPTION:برای آموزش ها و نکته های آیفون، این
+ ستاگرام استوک لند را ببینید:\nhttps://www.instagram
+ .com/stock_land.ir/\n\nپیام معرفی هفتگی استوک لند
 URL:https://www.instagram.com/stock_land.ir/
 TRANSP:TRANSPARENT
 END:VEVENT
