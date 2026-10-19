@@ -50,6 +50,14 @@
   .badge span { font-size: 28px; font-weight: 800; line-height: 1.6; }
   h1 { font-size: 26px; margin: 0 0 6px; }
   header p { margin: 0; color: var(--muted); }
+  .perks {
+    list-style: none; padding: 0; margin: 16px 0 0;
+    display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;
+  }
+  .perks li {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 99px; padding: 2px 12px; font-size: 14px;
+  }
   .card {
     background: var(--card); border: 1px solid var(--line);
     border-radius: 16px; padding: 20px; margin-bottom: 16px;
@@ -82,7 +90,13 @@
   <header>
     <div class="badge"><b>فروردین</b><span>۱</span></div>
     <h1>تقویم فارسی استوک لند</h1>
-    <p>تاریخ شمسی و مناسبت‌های هر روز، داخل تقویم خود گوشی‌تان.<br>سال‌های ۱۴۰۵ تا ۱۴۰۷، و به‌روزرسانی خودکار.</p>
+    <p>تاریخ شمسی روی تقویم خود گوشی، بدون نصب هیچ برنامه‌ای.</p>
+    <ul class="perks">
+      <li>🔴 تعطیلی‌های رسمی</li>
+      <li>🎉 مناسبت‌ها و جشن‌ها</li>
+      <li>🍉 شمارش معکوس یلدا و نوروز</li>
+      <li>⌚️ روی مک، آیپد و اپل واچ</li>
+    </ul>
   </header>
 
   <section class="card" id="ios">
