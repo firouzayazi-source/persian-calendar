@@ -25,10 +25,27 @@ LUNAR_HOLIDAY_KEYS = ['تاسوعا', 'عاشورا', 'اربعین', 'رحلت 
                       'میلاد رسول اکرم و امام جعفر']
 NOT_HOLIDAY = ['النقی', 'اهل سنت']
 is_holiday_occ = lambda o: any(k in o for k in LUNAR_HOLIDAY_KEYS) and not any(x in o for x in NOT_HOLIDAY)
+WEEKDAYS = ['شنبه', 'یکشنبه', 'دوشنبه', 'سه‌شنبه', 'چهارشنبه', 'پنجشنبه', 'جمعه']
 MONTH_EMOJI = ['🌱', '🌷', '🌾', '☀️', '🍉', '🍇', '🍂', '🍁', '🌧', '❄️', '⛄️', '🌸']
 GREG_MONTHS = ['ژانویه', 'فوریه', 'مارس', 'آوریل', 'مه', 'ژوئن', 'ژوئیه', 'اوت',
                'سپتامبر', 'اکتبر', 'نوامبر', 'دسامبر']
-FESTIVALS = {(9, 30): ('🍉', 'شب یلدا'), (11, 10): ('🔥', 'جشن سده')}
+FESTIVALS = {(9, 30): ('🍉', 'شب یلدا'), (11, 10): ('🔥', 'جشن سده'),
+             (4, 1): ('☀️', 'آغاز تابستان'), (7, 1): ('🍂', 'آغاز پاییز'),
+             (10, 1): ('❄️', 'آغاز زمستان')}
+# Occasion icons, first keyword match wins; falls back to occasion_emoji().
+ICONS = [('نوروز', '🎊'), ('سال نو', '🎊'), ('طبیعت', '🌳'), ('سیزده', '🌳'),
+         ('یلدا', '🍉'), ('سده', '🔥'), ('مهرگان', '🌞'), ('معلم', '📚'),
+         ('کارگر', '🛠'), ('روز پدر', '👨‍👧'), ('روز مادر', '👩‍👧'), ('روز زن', '👩‍👧'),
+         ('کودک', '🧸'), ('دختر', '🎀'), ('دانشجو', '🎓'), ('دانش‌آموز', '🎒'),
+         ('پزشک', '🩺'), ('پرستار', '🩺'), ('دامپزشک', '🐾'), ('محیط زیست', '🌍'),
+         ('زمین پاک', '🌍'), ('درخت', '🌳'), ('غذا', '🍽'), ('کتاب', '📖'),
+         ('خلیج فارس', '🌊'), ('کوروش', '🏛'), ('حافظ', '📜'), ('سعدی', '📜'),
+         ('فردوسی', '📜'), ('مولوی', '📜'), ('مولانا', '📜'), ('خیام', '📜'),
+         ('عطار', '📜'), ('شهریار', '📜'), ('شعر', '📜'), ('گردشگری', '🧳'),
+         ('صادرات', '📦'), ('تربیت بدنی', '⚽'), ('ورزش', '⚽'), ('سینما', '🎬'),
+         ('موسیقی', '🎵'), ('عکاسی', '📷'), ('تئاتر', '🎭'), ('نفت', '🛢'),
+         ('حقوق بشر', '⚖️'), ('مهندس', '🏗'), ('آتش‌نشان', '🚒'), ('مبعث', '✨'),
+         ('فطر', '🌙'), ('قربان', '🌙'), ('غدیر', '🌙')]
 MOURNING = re.compile(r'(شهادت|وفات|رحلت|تاسوعا|عاشورا|اربعین)')
 BIRTH = re.compile(r'^(ولادت|میلاد)')
 CELEBRATION = re.compile(r'(جشن|عید|نوروز|یلدا)')
@@ -38,6 +55,9 @@ def occasion_emoji(o):
     if BIRTH.search(o): return '💐'
     if CELEBRATION.search(o): return '🎉'
     return None
+
+def occasion_icon(o):
+    return next((e for k, e in ICONS if k in o), None) or occasion_emoji(o)
 
 def last_tuesday(jy):
     d = jdatetime.date(jy + 1, 1, 1) - datetime.timedelta(days=1)
@@ -76,7 +96,7 @@ holiday_count = collections.Counter()
 for g in sorted(info):
     e = info[g]
     j = jdatetime.date.fromgregorian(date=g)
-    weekday = str(e['SUMMARY']).split(' - ')[0].strip()
+    weekday = WEEKDAYS[j.weekday()]
     lines = str(e['DESCRIPTION']).split('\n')
     occasions = [' '.join(x.split()) for x in lines[1:] if x.strip()] if lines[0].startswith('مناسبت های') else []
     occasions = [o for o in occasions if 'چهارشنبه سوری' not in o]
@@ -93,20 +113,22 @@ for g in sorted(info):
     if holiday:
         pick = (occasions[0] if solar and occasions else
                 next((o for o in occasions if is_holiday_occ(o)), None))
-        emoji = '🔴'
+        icon = pick and occasion_icon(pick)
     elif festival:
-        emoji, pick = festival
+        icon, pick = festival
     elif cd:
-        emoji, pick = cd
+        icon, pick = cd
     else:
         pick = next((o for o in occasions if NOTABLE.match(o) and len(o) <= 40), None)
-        emoji = (pick and occasion_emoji(pick)) or MONTH_EMOJI[j.month - 1]
+        icon = pick and occasion_icon(pick)
     # Two events per day, like separate pills in month view and the medium
-    # widget. iOS sorts all-day events by title, so the plain-text weekday
-    # line lands above the emoji-led date line; month view clips long titles
-    # from their start, so the weekday goes last.
-    lead = pick if (festival or cd) else (f'{fa(pick)} · ' if pick else '') + weekday
-    titles = {'info': lead, 'date': f'{emoji} {date_str}'}
+    # widget. iOS sorts all-day events by title, so the weekday line (starts
+    # with Persian letters) lands above the emoji-led date line. Month view
+    # clips long titles from their start, so the weekday and icon go last.
+    # Date line: season icon (🔴 on holidays); weekday line: occasion icon.
+    lead = pick if not holiday and (festival or cd) else (f'{fa(pick)} · ' if pick else '') + weekday
+    titles = {'info': lead + (f' {icon}' if icon else ''),
+              'date': f"{'🔴' if holiday else MONTH_EMOJI[j.month - 1]} {date_str}"}
 
     nowruz_days = (jdatetime.date(j.year + 1, 1, 1) - j).days
     desc = [f'{weekday} {date_str} {fa(j.year)}',
