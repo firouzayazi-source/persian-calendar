@@ -24,6 +24,15 @@ LUNAR_HOLIDAY_KEYS = ['تاسوعا', 'عاشورا', 'اربعین', 'رحلت 
                       'عید سعید قربان', 'غدیر', 'ولادت امام مهدی', 'رحلت رسول',
                       'میلاد رسول اکرم و امام جعفر']
 NOT_HOLIDAY = ['النقی', 'اهل سنت']
+# Names for solar holidays the source leaves blank in some years: (keyword, name).
+SOLAR_NAMES = {(1, 12): ('جمهوری اسلامی', 'روز جمهوری اسلامی'),
+               (3, 14): ('امام خمینی', 'رحلت امام خمینی'),
+               (3, 15): ('قیام', 'قیام ۱۵ خرداد'),
+               (11, 22): ('انقلاب', 'پیروزی انقلاب اسلامی'),
+               (12, 29): ('صنعت نفت', 'روز ملی شدن صنعت نفت')}
+# Fixes to source.ics: occasions it is missing and ones it puts on the wrong day.
+ADD = {(1407, 5, 2): ['شهادت امام رضا (ع)'], (1407, 11, 21): ['روز جهانی قدس']}
+DROP = {(1407, 2, 17): ['روز جهانی قدس']}
 is_holiday_occ = lambda o: any(k in o for k in LUNAR_HOLIDAY_KEYS) and not any(x in o for x in NOT_HOLIDAY)
 WEEKDAYS = ['شنبه', 'یکشنبه', 'دوشنبه', 'سه‌شنبه', 'چهارشنبه', 'پنجشنبه', 'جمعه']
 MONTH_EMOJI = ['🌱', '🌷', '🌾', '☀️', '🍉', '🍇', '🍂', '🍁', '🌧', '❄️', '⛄️', '🌸']
@@ -99,7 +108,12 @@ for g in sorted(info):
     weekday = WEEKDAYS[j.weekday()]
     lines = str(e['DESCRIPTION']).split('\n')
     occasions = [' '.join(x.split()) for x in lines[1:] if x.strip()] if lines[0].startswith('مناسبت های') else []
-    occasions = [o for o in occasions if 'چهارشنبه سوری' not in o]
+    key = (j.year, j.month, j.day)
+    occasions = [o for o in occasions if 'چهارشنبه سوری' not in o and o != 'جمعه'
+                 and o not in DROP.get(key, [])] + ADD.get(key, [])
+    kw, name = SOLAR_NAMES.get((j.month, j.day), (None, None))
+    if kw and not any(kw in o for o in occasions):
+        occasions.insert(0, name)
     holiday = (j.month, j.day) in SOLAR_HOLIDAYS or any(is_holiday_occ(o) for o in occasions)
     if holiday:
         holiday_count[j.year] += 1
