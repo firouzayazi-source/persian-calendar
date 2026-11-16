@@ -1,9 +1,12 @@
 # Changelog
 
-## Status (2026-11-09)
-Live and stable on `main` (`4c8d684`). No unfinished work in the repo.
+## Status (2026-11-16)
+Live and stable on `main`. No unfinished work in the repo.
 
 Open ideas, not started: add 1408+, tidy 1407 occasion data if ever wanted (trivia kept by choice).
+
+## 2026-11-16
+- Dependencies checked: icalendar 7.3.0 and jdatetime 6.1.1 are the latest; build output unchanged. Versions pinned in `tools/requirements.txt`.
 
 ## 2026-10-30
 - `4c8d684` Fix 1407 holidays: add شهادت امام رضا on 2 Mordad 1407, move روز قدس 1407 to 21 Bahman, drop bare «جمعه» occasions, name blank solar holidays (12 Farvardin, 14–15 Khordad, 22 Bahman).

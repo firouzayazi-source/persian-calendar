@@ -1,0 +1,3 @@
+# Tested 2026-11-16 with Python 3.13: pip install -r tools/requirements.txt
+icalendar==7.3.0
+jdatetime==6.1.1

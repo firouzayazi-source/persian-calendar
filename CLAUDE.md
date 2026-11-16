@@ -4,7 +4,7 @@ A subscribable Persian (Jalali) calendar for iPhone and Android, plus its instal
 
 ## Files
 - `stock-land-persian-calendar.ics` — the published calendar (1405–1407). Generated; never edit by hand.
-- `tools/build.py` — rebuilds the .ics from `tools/source.ics` (original occasion data) and `tools/tips.txt` (weekly iPhone tips, `title|body`). Run `python3 tools/build.py` (needs `pip install icalendar jdatetime`). Output is reproducible except `DTSTAMP`.
+- `tools/build.py` — rebuilds the .ics from `tools/source.ics` (original occasion data) and `tools/tips.txt` (weekly iPhone tips, `title|body`). Run `python3 tools/build.py` (needs `pip install -r tools/requirements.txt`). Output is reproducible except `DTSTAMP`.
 - `index.html` — RTL install page (Vazirmatn font, light/dark), links to the .ics and Instagram.
 - `marketing/` — A4 poster with QR, Instagram story, reel script (`reel.md`); `node marketing/render.js` re-renders the PNGs with Playwright.
 
